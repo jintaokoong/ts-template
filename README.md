@@ -1,4 +1,4 @@
-# Foobar
+# ts-template
 
 This is an example of a README file for a project. It is written in Markdown
 and contains a few examples of how to format your README file.
